@@ -1,0 +1,6 @@
+* [Building a Scalable Data Warehouse with Data Vault 2.0](https://sanofi.sharepoint.com/:b:/r/sites/ChinaDataModelingandServiceCommittee/Shared%20Documents/General/Building%20a%20Scalable%20Data%20Warehouse%20with%20Data%20Vault%202.0.pdf?csf=1&web=1&e=aBJbh6)
+* [Data Vault Academy - YouTube Channel](https://www.youtube.com/user/DataVaultAcademy/feed)
+* [Data Vault Data Warehouse Architecture](https://www.youtube.com/watch?v=QbBmYMaQFec)
+* [Data Vault Basics from Kent Graziano](https://www.vertabelo.com/blog/data-vault-series-data-vault-2-0-modeling-basics/)
+* [The Data Warrior - Kent Graziano's Blog](https://kentgraziano.com/)
+* [Introduction to Data Vault for Data Warehouseing - Simon Kitching](http://moi.vonos.net/programming/dwh-datavault/)
